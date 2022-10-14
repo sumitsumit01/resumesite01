@@ -1,0 +1,12 @@
+div {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    color: white;
+}

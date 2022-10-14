@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    background-color: grey;
+    
+}
+
+div {
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+p:nth-child(1){
+    background-color: grey;
+}
+img{
+    width: 100%;
+}
+nav > img{
+    width: 10%;
+    margin-left: 70px;
+}
